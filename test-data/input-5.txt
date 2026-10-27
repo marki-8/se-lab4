@@ -1,0 +1,4 @@
+GT4500,2,0,0,0
+TORPEDO,SINGLE # 1. loves -> elsodleges
+TORPEDO,SINGLE # 2. loves -> masodlagos ures, ujra elsodlegesbol
+TORPEDO,SINGLE # 3. loves -> mar mindketto ures -> failure
